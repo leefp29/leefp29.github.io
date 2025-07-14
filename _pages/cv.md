@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in HuZhou, HuZhou University, 2014-2018
-* M.S. in HangZhou, Zhejiang University of Technology, 2018-2021
-* Ph.D in WuHan, Central China Normal University, 2021-present
+* B.S in HuZhou, HuZhou University, 2014.09-2018.06
+* M.S in HangZhou, Zhejiang University of Technology, 2018.09-2021.06
+* Ph.D in WuHan, Central China Normal University, 2021.09-2025.06
+* Joint-postdoc in Fudan University and RIKEN-iTHEMS, 2025.07-now
 
 Main Research Interests
 ======
